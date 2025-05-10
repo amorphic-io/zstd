@@ -1,3 +1,11 @@
+# Bazel
+bazel-*
+MODULE.bazel.lock
+
+# Misc
+/.direnv
+/.envrc
+
 # Object files
 *.o
 *.ko
